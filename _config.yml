@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: 박다정
+bio: 대화하고 싶은 개발자, 박다정입니다
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,9 +8,9 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
-# your site color theme, true for dark theme, 
+# your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
 dark-theme: auto
 
@@ -38,8 +38,8 @@ facebook: myfacebook
 twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: https://github.com/lion0913
+email: ekwjd990913@gmail.com
 
 authors:
   johndoe:
